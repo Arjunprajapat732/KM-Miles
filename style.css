@@ -34,6 +34,13 @@ h1{
 p{
     width: 189px;
     height: 30px;
-    background-color: red;
+    background-color: blueviolet;
+    color: white;
     float: left;
+}
+.welcome{
+    width: 100%;
+    background-color: gray;
+    margin-bottom: 30px;
+    font-size: 22px;
 }
